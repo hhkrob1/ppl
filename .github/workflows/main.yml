@@ -1,9 +1,12 @@
 name: Access HerokuApp
 on:
-  push:    
+  push:
+  repository_dispatch:
+    types:
+      - proxy
   schedule:
-#     - cron: '24 0,6,12 * * *'
-    - cron: '24 0,2,4,6,8,10,12,14 * * *'
+    #     - cron: '24 0,6,12 * * *'
+    - cron: "24 0,2,4,6,8,10,12,14 * * *"
 
 jobs:
   lfproxz:
