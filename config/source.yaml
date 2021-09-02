@@ -170,11 +170,11 @@
 #   options:
 #     url: https://t.me/s/Starlink101
 
-# - type: tgchannel
-#   options:
-#     channel: CloudLinkChannel
-#     num: 200
-# - type: tgchannel
-#   options:
-#     channel: ShareCentre
-#     num: 200
+- type: tgchannel
+  options:
+    channel: CloudLinkChannel
+    num: 200
+- type: tgchannel
+  options:
+    channel: ShareCentre
+    num: 200
