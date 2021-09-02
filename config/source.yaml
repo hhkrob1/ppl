@@ -84,9 +84,9 @@
 # #     url: https://t.me/s/ssrv2jiedian
 
 # # =============================Clash格式订阅链接=============================
-- type: clash
-  options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+# - type: clash
+#   options:
+#     url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
 
 # =============================tg频道抓取(同时包含订阅和节点)=============================
 # - type: tgchannel
@@ -98,19 +98,19 @@
 #   options:
 #     url: https://t.me/s/baipiaov2
 
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 200
+# - type: tgchannel
+#   options:
+#     channel: freeshadowsock
+#     num: 200
 
 # - type: webfuzzsub
 #   options:
 #     url: https://t.me/s/freeshadowsock
 
-- type: tgchannel
-  options:
-    channel: ssrshares
-    num: 200
+# - type: tgchannel
+#   options:
+#     channel: ssrshares
+#     num: 200
 
 # - type: webfuzzsub
 #   options:
@@ -134,10 +134,10 @@
 #   options:
 #     url: https://t.me/s/ShareCentre
 
-- type: tgchannel
-  options:
-    channel: ripaojiedian
-    num: 200
+# - type: tgchannel
+#   options:
+#     channel: ripaojiedian
+#     num: 200
 
 # - type: webfuzzsub
 #   options:
@@ -170,10 +170,40 @@
 #   options:
 #     url: https://t.me/s/Starlink101
 
+# - type: tgchannel
+#   options:
+#     channel: CloudLinkChannel
+#     num: 200
+# - type: tgchannel
+#   options:
+#     channel: ShareCentre
+#     num: 200
+
+# Now Use
+- type: clash
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ripaojiedian
+    num: 200
+
 - type: tgchannel
   options:
     channel: CloudLinkChannel
     num: 200
+
 - type: tgchannel
   options:
     channel: ShareCentre
