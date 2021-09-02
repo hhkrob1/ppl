@@ -1,0 +1,181 @@
+# *****************************Current Use*******************************
+# =============================翻墙党论坛抓取==============================
+# - type: web-fanqiangdang
+#   options:
+#     url: https://fanqiangdang.com/forum-48-1.html
+
+# - type: web-fanqiangdang
+#   options:
+#     url: https://fanqiangdang.com/forum-36-1.html
+
+# - type: web-fanqiangdang
+#   options:
+#     url: https://fanqiangdang.com/forum-2-1.html
+
+# - type: web-fanqiangdang
+#   options:
+#     url: https://fanqiangdang.com/forum-50-1.html
+
+# =============================订阅链接抓取=============================
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+
+# - type: subscribe
+#   options:
+#     url: https://jiang.netlify.com/
+
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/cdp2020/v2ray/master/README.md
+
+# - type: subscribe
+#   options:
+#     url: https://v2free.org/freev2.txt
+
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/freefq/free/master/v2
+
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+
+# - type: subscribe
+#   options:
+#     url: https://gitea.com/proxypools/sub/raw/branch/main/vmess/vs.txt
+
+# - type: subscribe
+#   options:
+#     url: https://gitea.com/proxypools/sub/raw/branch/main/ss/ss.txt
+
+# - type: subscribe
+#   options:
+#     url: https://gitea.com/proxypools/sub/raw/branch/main/ssr/ssr.txt
+
+# =============================网页抓取(模糊)=============================
+# - type: webfuzz
+#   options:
+#     url: https://github.com/BeanWei/freeSSR
+
+# - type: webfuzz
+#   options:
+#     url: https://github.com/dovesu/-SSR-
+
+# - type: webfuzz
+#   options:
+#     url: https://github.com/wohezhilong/isharing
+
+# - type: webfuzz
+#   options:
+#     url: https://github.com/freefq/free
+
+# - type: webfuzz
+#   options:
+#     url: https://www.facebook.com/groups/331230227846392
+
+# - type: webfuzz
+#   options:
+#     url: https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+
+# # =============================网页订阅链接抓取(模糊)=============================
+# # - type: webfuzzsub
+# #   options:
+# #     url: https://t.me/s/ssrv2jiedian
+
+# # =============================Clash格式订阅链接=============================
+- type: clash
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+
+# =============================tg频道抓取(同时包含订阅和节点)=============================
+# - type: tgchannel
+#   options:
+#     channel: baipiaov2
+#     num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/baipiaov2
+
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/freeshadowsock
+
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/ssrshares
+
+# - type: tgchannel
+#   options:
+#     channel: baipiaojiedian
+#     num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/baipiaojiedian
+
+# - type: tgchannel
+#   options:
+#     channel: ShareCentre
+#     num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/ShareCentre
+
+- type: tgchannel
+  options:
+    channel: ripaojiedian
+    num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/ripaojiedian
+
+# - type: tgchannel
+#   options:
+#     channel: v2rayNssr
+#     num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/v2rayNssr
+
+# - type: tgchannel
+#   options:
+#     channel: FreeResources101
+#     num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/FreeResources101
+
+# - type: tgchannel
+#   options:
+#     channel: Starlink101
+#     num: 200
+
+# - type: webfuzzsub
+#   options:
+#     url: https://t.me/s/Starlink101
+
+- type: tgchannel
+  options:
+    channel: CloudLinkChannel
+    num: 200
+
+- type: tgchannel
+  options:
+    channel: ShareCentre
+    num: 200
