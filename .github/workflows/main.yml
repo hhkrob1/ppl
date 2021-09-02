@@ -1,0 +1,28 @@
+name: Access HerokuApp
+on:
+  push:    
+  schedule:
+#     - cron: '24 0,6,12 * * *'
+    - cron: '24 0,2,4,6,8,10,12,14 * * *'
+
+jobs:
+  lfproxz:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Access lfproxz
+        run: curl https://lfproxz.herokuapp.com/
+#   onepiecelf:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Access onepiecelf
+#         run: curl https://onepiecelf.herokuapp.com
+#   lfsubco:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Access lfsubco
+#         run: curl https://lfsubco.herokuapp.com/getprofile?name=profiles/my_airport.ini&token=666
+#   lfsubweb:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Access lfsubweb
+#         run: curl https://lfsubweb.herokuapp.com/
