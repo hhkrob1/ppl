@@ -174,8 +174,7 @@
   options:
     channel: CloudLinkChannel
     num: 200
-
-- type: tgchannel
-  options:
-    channel: ShareCentre
-    num: 200
+# - type: tgchannel
+#   options:
+#     channel: ShareCentre
+#     num: 200
