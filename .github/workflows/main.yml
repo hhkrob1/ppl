@@ -1,6 +1,5 @@
 name: Access HerokuApp
 on:
-  push:
   repository_dispatch:
     types:
       - proxy
