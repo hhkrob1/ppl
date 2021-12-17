@@ -199,10 +199,10 @@
     channel: ripaojiedian
     num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: CloudLinkChannel
-#     num: 200
+- type: tgchannel
+  options:
+    channel: CloudLinkChannel
+    num: 200
 
 - type: tgchannel
   options:
