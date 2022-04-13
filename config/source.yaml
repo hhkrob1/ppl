@@ -182,29 +182,19 @@
 # Now Use
 - type: clash
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
-
-- type: tgchannel
-  options:
-    channel: freeshadowsock
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ssrshares
-    num: 200
+    url: https://dllx.tk/GreenFishYYDS-Clash
 
 - type: tgchannel
   options:
     channel: ripaojiedian
-    num: 200
+    num: 100
 
 - type: tgchannel
   options:
-    channel: CloudLinkChannel
-    num: 200
+    channel: ShareCentrePro
+    num: 100
 
 - type: tgchannel
   options:
     channel: ShareCentre
-    num: 200
+    num: 100
