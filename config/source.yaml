@@ -198,3 +198,8 @@
   options:
     channel: ShareCentre
     num: 200
+
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
