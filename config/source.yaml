@@ -187,14 +187,14 @@
 - type: tgchannel
   options:
     channel: ripaojiedian
-    num: 100
+    num: 200
 
 - type: tgchannel
   options:
     channel: ShareCentrePro
-    num: 100
+    num: 200
 
 - type: tgchannel
   options:
     channel: ShareCentre
-    num: 100
+    num: 200
