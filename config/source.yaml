@@ -203,3 +203,8 @@
   options:
     channel: V2List
     num: 200
+
+- type: tgchannel
+  options:
+    channel: vpnhat
+    num: 200
