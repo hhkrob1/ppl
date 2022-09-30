@@ -184,20 +184,20 @@
 #   options:
 #     url: https://dllx.tk/GreenFishYYDS-Clash
 
-- type: tgchannel
-  options:
-    channel: ripaojiedian
-    num: 200
+# - type: tgchannel
+#   options:
+#     channel: ripaojiedian
+#     num: 200
 
-- type: tgchannel
-  options:
-    channel: ShareCentrePro
-    num: 200
+# - type: tgchannel
+#   options:
+#     channel: ShareCentrePro
+#     num: 200
 
-- type: tgchannel
-  options:
-    channel: ShareCentre
-    num: 200
+# - type: tgchannel
+#   options:
+#     channel: ShareCentre
+#     num: 200
 
 # - type: tgchannel
 #   options:
