@@ -180,39 +180,39 @@
 #     num: 200
 
 # Now Use
-# - type: clash
-#   options:
-#     url: https://dllx.tk/GreenFishYYDS-Clash
+- type: clash
+  options:
+    url: https://dllx.tk/GreenFishYYDS-Clash
 
-# - type: tgchannel
-#   options:
-#     channel: ripaojiedian
-#     num: 200
+- type: tgchannel
+  options:
+    channel: ripaojiedian
+    num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: ShareCentrePro
-#     num: 200
+- type: tgchannel
+  options:
+    channel: ShareCentrePro
+    num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: ShareCentre
-#     num: 200
+- type: tgchannel
+  options:
+    channel: ShareCentre
+    num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: V2List
-#     num: 200
+- type: tgchannel
+  options:
+    channel: V2List
+    num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: vpnhat
-#     num: 200
+- type: tgchannel
+  options:
+    channel: vpnhat
+    num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: masco899
-#     num: 200
+- type: tgchannel
+  options:
+    channel: masco899
+    num: 200
 - type: subscribe
   options:
     url: https://api.ndsxfkjfvhzdsfio.quest/link/6bFRMPT1fEAR8rcC?sub=3&extend=1
