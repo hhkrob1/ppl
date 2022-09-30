@@ -215,4 +215,4 @@
 #     num: 200
 - type: subscribe
   options:
-  url: https://api.ndsxfkjfvhzdsfio.quest/link/6bFRMPT1fEAR8rcC?sub=3&extend=1
+    url: https://api.ndsxfkjfvhzdsfio.quest/link/6bFRMPT1fEAR8rcC?sub=3&extend=1
