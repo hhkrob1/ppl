@@ -10,6 +10,8 @@ source-files:
   # - https://example.com/config/source.yaml
   - https://raw.githubusercontent.com/hhkrob1/ppl/ps/config/source.yaml
 
+test-delay-url: "http://www.apple.com/library/test/success.html"
+
 # # ======= 可选项，留空使用default值  =======
 
 # # postgresql database info
