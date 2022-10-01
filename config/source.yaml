@@ -189,10 +189,10 @@
     channel: ripaojiedian
     num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: vpnhat
-#     num: 200
+- type: tgchannel
+  options:
+    channel: vpnhat
+    num: 200
 
 # - type: tgchannel
 #   options:
