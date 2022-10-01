@@ -194,8 +194,8 @@
     channel: vpnhat
     num: 200
 
-# - type: tgchannel
-#   options:
-#     channel: masco899
-#     num: 200
+- type: tgchannel
+  options:
+    channel: baipiaoeverything
+    num: 200
 
