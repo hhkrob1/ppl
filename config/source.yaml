@@ -187,15 +187,15 @@
 - type: tgchannel
   options:
     channel: ripaojiedian
-    num: 200
+    num: 100
 
 - type: tgchannel
   options:
     channel: vpnhat
-    num: 200
+    num: 100
 
 - type: tgchannel
   options:
     channel: baipiaoeverything
-    num: 200
+    num: 100
 
