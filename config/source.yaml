@@ -180,6 +180,7 @@
 #     num: 200
 
 # Now Use
+
 - type: clash
   options:
     url: https://dllx.tk/GreenFishYYDS-Clash
@@ -187,15 +188,20 @@
 - type: tgchannel
   options:
     channel: ripaojiedian
-    num: 100
+    num: 200
 
 - type: tgchannel
   options:
     channel: vpnhat
-    num: 100
+    num: 200
 
 - type: tgchannel
   options:
     channel: baipiaoeverything
-    num: 100
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ShareCentrePro
+    num: 200
 
