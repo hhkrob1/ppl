@@ -214,4 +214,9 @@
   options:
     channel: ShareCentrePro
     num: 30
+    
+- type: tgchannel
+  options:
+    channel: mftizi
+    num: 10
 
