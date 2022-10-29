@@ -212,6 +212,11 @@
 
 - type: tgchannel
   options:
+    channel: freeV2rayi
+    num: 50
+
+- type: tgchannel
+  options:
     channel: ShareCentrePro
     num: 30
     
@@ -219,4 +224,5 @@
   options:
     channel: mftizi
     num: 10
+
 
