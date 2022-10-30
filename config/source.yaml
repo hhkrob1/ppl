@@ -219,6 +219,11 @@
   options:
     channel: ShareCentrePro
     num: 30
+
+- type: tgchannel
+  options:
+    channel: masco899
+    num: 30
     
 - type: tgchannel
   options:
