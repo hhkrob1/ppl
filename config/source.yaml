@@ -217,6 +217,11 @@
 
 - type: tgchannel
   options:
+    channel: jd_vpn
+    num: 30
+
+- type: tgchannel
+  options:
     channel: ShareCentrePro
     num: 30
 
@@ -229,5 +234,4 @@
   options:
     channel: mftizi
     num: 10
-
 
