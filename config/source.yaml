@@ -181,57 +181,9 @@
 
 # Now Use
 
-- type: clash
-  options:
-    url: https://dllx.tk/GreenFishYYDS-Clash
-
 - type: tgchannel
   options:
     channel: ripaojiedian
     num: 200
 
-- type: tgchannel
-  options:
-    channel: vpnhat
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: baipiaoeverything
-    num: 50
-
-- type: tgchannel
-  options:
-    channel: freeV2rayi
-    num: 50
-
-- type: tgchannel
-  options:
-    channel: masco899
-    num: 50
-
-- type: tgchannel
-  options:
-    channel: mftizi
-    num: 50
-
-- type: tgchannel
-  options:
-    channel: jd_vpn
-    num: 30
-
-- type: tgchannel
-  options:
-    channel: ShareCentrePro
-    num: 30
-
-- type: tgchannel
-  options:
-    channel: masco899
-    num: 30
-    
-- type: tgchannel
-  options:
-    channel: mftizi
-    num: 10
 
