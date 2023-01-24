@@ -186,4 +186,9 @@
     channel: ripaojiedian
     num: 200
 
+- type: tgchannel
+  options:
+    channel: aries_init
+    num: 200
+
 
