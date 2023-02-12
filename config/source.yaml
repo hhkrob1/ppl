@@ -183,16 +183,5 @@
 
 - type: tgchannel
   options:
-    channel: ripaojiedian
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: aries_init
-    num: 200
-
-- type: tgchannel
-  options:
-    channel: ZDYZ2
-    num: 200
-
+    channel: ShareCentrePro
+    num: 100
