@@ -179,7 +179,39 @@
 #     channel: ShareCentre
 #     num: 200
 
-# Now Use
+# # # # # # # # # # # # # # # # # # # # # # Now Use # # # # # # # # # # # # # # # # # # #
+
+- type: clash
+  options:
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+
+- type: clash
+  options:
+    url: https://kxswa.tk/clash
+
+- type: subscribe
+  options:
+    url: https://jiang.netlify.com
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+
+- type: subscribe
+  options:
+    url: http://s.com:2808/clash/https://sub.sharecentre.online/sub
+
+- type: subscribe
+  options:
+    url: https://getafreenode.com/subscribe/?uuid=8102D0B2-B990-C8DC-CE60-241536D24D7D
+
+- type: subscribe
+  options:
+    url: https://ghproxy.com/raw.githubusercontent.com/wentao883/wxgdyjdy/main/dyljcs
+
+- type: subscribe
+  options:
+    url: https://nodes.pages.dev/sub/v2ray
 
 - type: tgchannel
   options:
