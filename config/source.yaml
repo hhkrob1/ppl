@@ -183,11 +183,27 @@
 
 - type: clash
   options:
-    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
+    url: https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
+    
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/ssrsub/ssr@master/Clash.yml
+    
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/chfchf0306/clash@main/clash
+    
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/freebaipiao/freebaipiao@main/GfwserveClash.yaml
+    
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/adiwzx/freenode@main/adispeed.yml
 
 - type: clash
   options:
-    url: https://kxswa.tk/clash
+    url: https://gitea.com/proxypools/sub/raw/branch/main/clash/clashs.yaml
 
 - type: subscribe
   options:
@@ -199,7 +215,7 @@
 
 - type: subscribe
   options:
-    url: http://s.com:2808/clash/https://sub.sharecentre.online/sub
+    url: https://sub.sharecentre.online/sub
 
 - type: subscribe
   options:
@@ -207,13 +223,11 @@
 
 - type: subscribe
   options:
-    url: https://ghproxy.com/raw.githubusercontent.com/wentao883/wxgdyjdy/main/dyljcs
-
-- type: subscribe
-  options:
-    url: https://nodes.pages.dev/sub/v2ray
+    url: https://raw.githubusercontent.com/York-Labs/nodes/main/sub/cu
 
 - type: tgchannel
   options:
-    channel: ZDYZ2
+    channel: wxgmrjdcc
     num: 50
+
+
